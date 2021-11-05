@@ -5,3 +5,5 @@ https://github.com/claudiaalozano/Adivine-el-numero.git
 
 He resuelto un juego de adivinar valores entre 0 y 99.
 El diagrama de flujo que tengo en nuestro código es el siguiente:
+
+![Diagrama de flujo del juego de adivinar el número](C:\Users\Claudia\Desktop)
