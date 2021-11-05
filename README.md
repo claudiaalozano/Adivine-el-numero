@@ -23,4 +23,4 @@ while numero != numero2:
         numero_intentos= numero_intentos + 1
 if numero2==numero:
     numero_intentos= numero_intentos + 1
-    print("Enohorabuena, los números coinciden." , " El número de intentos son: " , numero_intentos)´´
+    print("Enohorabuena, los números coinciden." , " El número de intentos son: " , numero_intentos)´´´
