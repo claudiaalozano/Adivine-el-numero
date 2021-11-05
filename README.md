@@ -8,7 +8,7 @@ El diagrama de flujo que tengo en nuestro código es el siguiente:
 
 ![Diagrama de flujo del juego de adivinar el número](/claudiaalozano/Adivine-el-numero/figma adivine un número.jpg)
 
-´´´import random
+``import random
 numero= random.randint(0,100)
 numero2= int(input("Por favor introduzca un número: "))
 numero_intentos= 0
@@ -23,4 +23,4 @@ while numero != numero2:
         numero_intentos= numero_intentos + 1
 if numero2==numero:
     numero_intentos= numero_intentos + 1
-    print("Enohorabuena, los números coinciden." , " El número de intentos son: " , numero_intentos)```
+    print("Enohorabuena, los números coinciden." , " El número de intentos son: " , numero_intentos)``
